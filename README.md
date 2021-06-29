@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/waltersono/single_price_component](https://github.com/waltersono/single_price_component)
-- Live Site URL: [https://waltersono.github.io/single_price_component/](https://waltersono.github.io/single_price_component/)
+- Solution URL: [Source code](https://github.com/waltersono/single_price_component)
+- Live Site URL: [Live project](https://waltersono.github.io/single_price_component/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Media Queries
 
 ## Author
 

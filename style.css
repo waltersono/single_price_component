@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 60rem;
     width: 90%;
     margin: 5rem auto;
 }
@@ -117,7 +117,17 @@ body {
     color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 1000px) {
+@media screen and (max-width: 30em) {
+    html {
+        font-size: 50%;
+    }
+}
+
+@media screen and (min-width: 62.5em) {
+    .container {
+        max-width: 144rem;
+    }
+
     .card__bottom {
         display: flex;
         justify-content: space-evenly;
